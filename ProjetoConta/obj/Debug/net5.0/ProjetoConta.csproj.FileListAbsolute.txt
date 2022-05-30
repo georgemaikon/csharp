@@ -1,0 +1,16 @@
+C:\CSHARP\ProjetoConta\bin\Debug\net5.0\ProjetoConta.exe
+C:\CSHARP\ProjetoConta\bin\Debug\net5.0\ProjetoConta.deps.json
+C:\CSHARP\ProjetoConta\bin\Debug\net5.0\ProjetoConta.runtimeconfig.json
+C:\CSHARP\ProjetoConta\bin\Debug\net5.0\ProjetoConta.runtimeconfig.dev.json
+C:\CSHARP\ProjetoConta\bin\Debug\net5.0\ProjetoConta.dll
+C:\CSHARP\ProjetoConta\bin\Debug\net5.0\ref\ProjetoConta.dll
+C:\CSHARP\ProjetoConta\bin\Debug\net5.0\ProjetoConta.pdb
+C:\CSHARP\ProjetoConta\obj\Debug\net5.0\ProjetoConta.csproj.AssemblyReference.cache
+C:\CSHARP\ProjetoConta\obj\Debug\net5.0\ProjetoConta.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSHARP\ProjetoConta\obj\Debug\net5.0\ProjetoConta.AssemblyInfoInputs.cache
+C:\CSHARP\ProjetoConta\obj\Debug\net5.0\ProjetoConta.AssemblyInfo.cs
+C:\CSHARP\ProjetoConta\obj\Debug\net5.0\ProjetoConta.csproj.CoreCompileInputs.cache
+C:\CSHARP\ProjetoConta\obj\Debug\net5.0\ProjetoConta.dll
+C:\CSHARP\ProjetoConta\obj\Debug\net5.0\ref\ProjetoConta.dll
+C:\CSHARP\ProjetoConta\obj\Debug\net5.0\ProjetoConta.pdb
+C:\CSHARP\ProjetoConta\obj\Debug\net5.0\ProjetoConta.genruntimeconfig.cache
